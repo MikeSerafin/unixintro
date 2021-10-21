@@ -1,7 +1,7 @@
 ---
 layout: lesson
 ---
-This Library Carpentry lesson introduces librarians to the Unix Shell.
+This Library 501 lesson introduces librarians to the Unix Shell.
 At the conclusion of the lesson you will: describe the basics of the Unix shell;
 explain why and how to use the command line;
 use shell commands to work with directories and files;
