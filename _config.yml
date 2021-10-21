@@ -10,7 +10,7 @@
 carpentry: "lc"
 
 # Overall title for pages.
-title: "Library Carpentry: The UNIX Shell"
+title: "Library 501: The UNIX Shell"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
